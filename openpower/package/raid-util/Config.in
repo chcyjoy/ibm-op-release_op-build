@@ -1,0 +1,4 @@
+config BR2_PACKAGE_RAID_UTIL
+        bool "raid_util"
+        help
+            Broadcom MegaRAID StorCLI RAID tool
